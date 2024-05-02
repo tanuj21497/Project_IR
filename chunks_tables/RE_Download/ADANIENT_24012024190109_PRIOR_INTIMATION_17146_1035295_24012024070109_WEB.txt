@@ -1,0 +1,16 @@
+
+
+iso4217:INRxbrli:purexbrli:sharesiso4217:INRxbrli:shares
+ADANIENT
+INE423A01024
+New
+2024-02-01
+true
+2024-01-01
+2024-02-03
+Financial results
+Unaudited
+Standalone And Consolidated
+Quarterly
+December
+2023

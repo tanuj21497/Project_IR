@@ -1,0 +1,18 @@
+
+
+iso4217:INRxbrli:purexbrli:sharesiso4217:INRxbrli:shares
+ITC
+INE154A01025
+New
+2024-01-29
+true
+2024-01-01
+2024-01-31
+Financial results
+Dividend
+Unaudited
+Standalone And Consolidated
+Quarterly
+December
+2023
+Interim
