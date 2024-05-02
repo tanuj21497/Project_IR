@@ -1,0 +1,42 @@
+Industry: Agro Chemicals
+Net Profit Variance: -5
+Latest Equity: 150.12
+Face Value: 2
+Total Reserves: 28713
+Full Year Dividend %: 500
+Full Year Net Sales: 53576
+Full Year Net Profit: 3673.69
+Full Year Cash Per Share: 82.9
+Full Year Earning Per Share: 48.9
+Latest Quarter Net Sales: 9887
+Book Value: 384.5
+Return on Net Worth: 16.2
+Price to Book Value: 1.26658
+Yearly PE Ratio: 10
+Yearly PC Ratio: 5.9
+BSE Value (in lakhs): 505.97
+NSE Value (in lakhs): 15431.54
+52 Week High: 760
+52 Week Low: 448
+Current Market Price (NSE): 488
+Market Cap (BSE/NSE): 36554.59
+Latest Quarter Net Profit: -1200.87
+Latest Quarter Net Profit Variance: -209
+Trailing Twelve Month (TTM) Sales: 50486
+TTM Operating Profit: 10221
+TTM Operating Profit Margin: 20.25
+TTM Gross Profit: 1970
+TTM Gross Profit Margin: 4.32
+TTM Net Profit: 4263.67
+TTM Net Profit Variance: -111.77
+TTM Earnings Per Share: 0
+TTM Price to Earnings Ratio: 0
+TTM Depreciation: 2438
+Latest Price (BSE/NSE): 487
+Latest Gross Block: 54770
+Total Loans: 23902
+Latest Advances for Banks: 0
+Latest Assets: 0
+Full Year Operating Profit Margin: 19
+Full Year Gross Profit Margin: 14.6
+Latest Quarter Operating Profit Margin: 0.7

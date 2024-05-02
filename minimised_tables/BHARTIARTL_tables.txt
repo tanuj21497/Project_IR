@@ -1,0 +1,42 @@
+Industry: Telecomm-Service
+Net Profit Variance: 183
+Latest Equity: 2834.43
+Face Value: 5
+Total Reserves: 77268.48
+Full Year Dividend %: 80
+Full Year Net Sales: 139144.8
+Full Year Net Profit: 8842.87
+Full Year Cash Per Share: 79.9
+Full Year Earning Per Share: 15.6
+Latest Quarter Net Sales: 37899.5
+Book Value: 141.3
+Return on Net Worth: 17.04
+Price to Book Value: 9.122435
+Yearly PE Ratio: 82.6
+Yearly PC Ratio: 16.1
+BSE Value (in lakhs): 3962.01
+NSE Value (in lakhs): 167519.07
+52 Week High: 1296
+52 Week Low: 756
+Current Market Price (NSE): 1289
+Market Cap (BSE/NSE): 765801.45
+Latest Quarter Net Profit: 2533.36
+Latest Quarter Net Profit Variance: 23
+Trailing Twelve Month (TTM) Sales: 128698.3
+TTM Operating Profit: 69983.1
+TTM Operating Profit Margin: 54.38
+TTM Gross Profit: 53783.3
+TTM Gross Profit Margin: 36.24
+TTM Net Profit: 5896.24
+TTM Net Profit Variance: 65.08
+TTM Earnings Per Share: 20.83
+TTM Price to Earnings Ratio: 61.88
+TTM Depreciation: 34858
+Latest Price (BSE/NSE): 1289
+Latest Gross Block: 477253.8
+Total Loans: 225668.7
+Latest Advances for Banks: 0
+Latest Assets: 0
+Full Year Operating Profit Margin: 51.2
+Full Year Gross Profit Margin: 38.6
+Latest Quarter Operating Profit Margin: 52.3

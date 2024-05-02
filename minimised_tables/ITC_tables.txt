@@ -1,0 +1,42 @@
+Industry: Tobacco Products
+Net Profit Variance: 26
+Latest Equity: 1248.47
+Face Value: 1
+Total Reserves: 67852.15
+Full Year Dividend %: 1550
+Full Year Net Sales: 70936.85
+Full Year Net Profit: 19140.5
+Full Year Cash Per Share: 16.8
+Full Year Earning Per Share: 15.3
+Latest Quarter Net Sales: 17872.71
+Book Value: 55.3
+Return on Net Worth: 29.6
+Price to Book Value: 7.685353
+Yearly PE Ratio: 27.7
+Yearly PC Ratio: 25.3
+BSE Value (in lakhs): 5016.85
+NSE Value (in lakhs): 70250.83
+52 Week High: 500
+52 Week Low: 398
+Current Market Price (NSE): 425
+Market Cap (BSE/NSE): 530350.97
+Latest Quarter Net Profit: 5339.69
+Latest Quarter Net Profit Variance: 7
+Trailing Twelve Month (TTM) Sales: 68606.6
+TTM Operating Profit: 23465.95
+TTM Operating Profit Margin: 34.2
+TTM Gross Profit: 28927.62
+TTM Gross Profit Margin: 41.37
+TTM Net Profit: 17261.95
+TTM Net Profit Variance: 12.36
+TTM Earnings Per Share: 16.39
+TTM Price to Earnings Ratio: 25.92
+TTM Depreciation: 1797.05
+Latest Price (BSE/NSE): 425
+Latest Gross Block: 36608.41
+Total Loans: 272.08
+Latest Advances for Banks: 0
+Latest Assets: 0
+Full Year Operating Profit Margin: 36.1
+Full Year Gross Profit Margin: 39
+Latest Quarter Operating Profit Margin: 36.4

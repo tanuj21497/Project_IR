@@ -1,0 +1,42 @@
+Industry: Insurance
+Net Profit Variance: 15
+Latest Equity: 2150.94
+Face Value: 10
+Total Reserves: 12515.4
+Full Year Dividend %: 20
+Full Year Net Sales: 62636.86
+Full Year Net Profit: 1574.08
+Full Year Cash Per Share: 7.3
+Full Year Earning Per Share: 7.3
+Latest Quarter Net Sales: 20708.04
+Book Value: 68.2
+Return on Net Worth: 9.6
+Price to Book Value: 8.826979
+Yearly PE Ratio: 82.3
+Yearly PC Ratio: 82.3
+BSE Value (in lakhs): 1345.29
+NSE Value (in lakhs): 61069.29
+52 Week High: 711
+52 Week Low: 512
+Current Market Price (NSE): 602
+Market Cap (BSE/NSE): 129411.55
+Latest Quarter Net Profit: 411.64
+Latest Quarter Net Profit Variance: 14
+Trailing Twelve Month (TTM) Sales: 51436.62
+TTM Operating Profit: 1655.65
+TTM Operating Profit Margin: 3.22
+TTM Gross Profit: 977.28
+TTM Gross Profit Margin: 1.56
+TTM Net Profit: 1471.88
+TTM Net Profit Variance: 15.04
+TTM Earnings Per Share: 7.32
+TTM Price to Earnings Ratio: 82.19
+TTM Depreciation: 0
+Latest Price (BSE/NSE): 602
+Latest Gross Block: 1660.99
+Total Loans: 950
+Latest Advances for Banks: 0
+Latest Assets: 0
+Full Year Operating Profit Margin: 0.7
+Full Year Gross Profit Margin: 1.6
+Latest Quarter Operating Profit Margin: 2.2

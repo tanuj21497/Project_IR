@@ -1,0 +1,42 @@
+Industry: Crude Oil & Natural Gas
+Net Profit Variance: -13
+Latest Equity: 6290.14
+Face Value: 5
+Total Reserves: 303337.26
+Full Year Dividend %: 225
+Full Year Net Sales: 632325.97
+Full Year Net Profit: 40814.35
+Full Year Cash Per Share: 52
+Full Year Earning Per Share: 32.4
+Latest Quarter Net Sales: 165569.06
+Book Value: 246.1
+Return on Net Worth: 14.13
+Price to Book Value: 1.117432
+Yearly PE Ratio: 8.5
+Yearly PC Ratio: 5.3
+BSE Value (in lakhs): 5543.43
+NSE Value (in lakhs): 90564.4
+52 Week High: 292
+52 Week Low: 151
+Current Market Price (NSE): 275
+Market Cap (BSE/NSE): 346146.38
+Latest Quarter Net Profit: 10355.95
+Latest Quarter Net Profit Variance: -10
+Trailing Twelve Month (TTM) Sales: 653145.63
+TTM Operating Profit: 82208.3
+TTM Operating Profit Margin: 12.59
+TTM Gross Profit: 93930.38
+TTM Gross Profit Margin: 14.67
+TTM Net Profit: 43569.54
+TTM Net Profit Variance: 8.73
+TTM Earnings Per Share: 38.14
+TTM Price to Earnings Ratio: 7.21
+TTM Depreciation: 25283.7
+Latest Price (BSE/NSE): 275
+Latest Gross Block: 202316.51
+Total Loans: 133085.65
+Latest Advances for Banks: 0
+Latest Assets: 0
+Full Year Operating Profit Margin: 11.8
+Full Year Gross Profit Margin: 12
+Latest Quarter Operating Profit Margin: 12.1

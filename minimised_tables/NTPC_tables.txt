@@ -1,0 +1,42 @@
+Industry: Power Generation & Distribution
+Net Profit Variance: 3
+Latest Equity: 9696.67
+Face Value: 10
+Total Reserves: 143980.28
+Full Year Dividend %: 73
+Full Year Net Sales: 176206.93
+Full Year Net Profit: 16973.04
+Full Year Cash Per Share: 32.8
+Full Year Earning Per Share: 17.5
+Latest Quarter Net Sales: 42820.38
+Book Value: 158.5
+Return on Net Worth: 12.13
+Price to Book Value: 2.214511
+Yearly PE Ratio: 20.1
+Yearly PC Ratio: 10.7
+BSE Value (in lakhs): 4682.29
+NSE Value (in lakhs): 44844.13
+52 Week High: 375
+52 Week Low: 167
+Current Market Price (NSE): 351
+Market Cap (BSE/NSE): 340256.01
+Latest Quarter Net Profit: 5155.28
+Latest Quarter Net Profit Variance: 8
+Trailing Twelve Month (TTM) Sales: 157729.85
+TTM Operating Profit: 43978.91
+TTM Operating Profit Margin: 27.88
+TTM Gross Profit: 42077.55
+TTM Gross Profit Margin: 24.03
+TTM Net Profit: 16940.35
+TTM Net Profit Variance: 13.27
+TTM Earnings Per Share: 20.11
+TTM Price to Earnings Ratio: 17.45
+TTM Depreciation: 14501.73
+Latest Price (BSE/NSE): 351
+Latest Gross Block: 339282.81
+Total Loans: 151461.59
+Latest Advances for Banks: 0
+Latest Assets: 0
+Full Year Operating Profit Margin: 27
+Full Year Gross Profit Margin: 22
+Latest Quarter Operating Profit Margin: 26.5

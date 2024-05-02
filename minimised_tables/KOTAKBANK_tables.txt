@@ -1,0 +1,42 @@
+Industry: Banks
+Net Profit Variance: 24
+Latest Equity: 993.96
+Face Value: 5
+Total Reserves: 119243.12
+Full Year Dividend %: 30
+Full Year Net Sales: 68142.03
+Full Year Net Profit: 14916.9
+Full Year Cash Per Share: 78.1
+Full Year Earning Per Share: 74.8
+Latest Quarter Net Sales: 24083.15
+Book Value: 604.8
+Return on Net Worth: 14.14
+Price to Book Value: 2.964616
+Yearly PE Ratio: 24
+Yearly PC Ratio: 23
+BSE Value (in lakhs): 3641.64
+NSE Value (in lakhs): 69097.41
+52 Week High: 2063
+52 Week Low: 1667
+Current Market Price (NSE): 1793
+Market Cap (BSE/NSE): 356473.98
+Latest Quarter Net Profit: 4264.78
+Latest Quarter Net Profit Variance: 7
+Trailing Twelve Month (TTM) Sales: 60146.33
+TTM Operating Profit: 30132.12
+TTM Operating Profit Margin: 50.1
+TTM Gross Profit: 23077.08
+TTM Gross Profit Margin: 26.48
+TTM Net Profit: 13658.13
+TTM Net Profit Variance: 22.4
+TTM Earnings Per Share: 87.74
+TTM Price to Earnings Ratio: 20.44
+TTM Depreciation: 0
+Latest Price (BSE/NSE): 1793
+Latest Gross Block: 6397.05
+Total Loans: 361272.62
+Latest Advances for Banks: 359107.46
+Latest Assets: 0
+Full Year Operating Profit Margin: 50.8
+Full Year Gross Profit Margin: 29.7
+Latest Quarter Operating Profit Margin: 48.2

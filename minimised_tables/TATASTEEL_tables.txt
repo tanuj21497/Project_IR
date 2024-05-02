@@ -1,0 +1,42 @@
+Industry: Steel
+Net Profit Variance: -79
+Latest Equity: 1248.35
+Face Value: 1
+Total Reserves: 87262.38
+Full Year Dividend %: 360
+Full Year Net Sales: 243352.69
+Full Year Net Profit: 8598.74
+Full Year Cash Per Share: 14.4
+Full Year Earning Per Share: 6.9
+Latest Quarter Net Sales: 54727.3
+Book Value: 70.9
+Return on Net Worth: 7.48
+Price to Book Value: 2.284908
+Yearly PE Ratio: 23.5
+Yearly PC Ratio: 11.3
+BSE Value (in lakhs): 5269.6
+NSE Value (in lakhs): 96407.78
+52 Week High: 170
+52 Week Low: 104
+Current Market Price (NSE): 162
+Market Cap (BSE/NSE): 202357.98
+Latest Quarter Net Profit: 534.64
+Latest Quarter Net Profit Variance: 144
+Trailing Twelve Month (TTM) Sales: 251876.18
+TTM Operating Profit: 58638.06
+TTM Operating Profit Margin: 23.28
+TTM Gross Profit: 10061.28
+TTM Gross Profit Margin: 4.35
+TTM Net Profit: 28996.99
+TTM Net Profit Variance: -86.36
+TTM Earnings Per Share: 1.97
+TTM Price to Earnings Ratio: 82.28
+TTM Depreciation: 9072.09
+Latest Price (BSE/NSE): 162
+Latest Gross Block: 245394.56
+Total Loans: 75211.69
+Latest Advances for Banks: 0
+Latest Assets: 0
+Full Year Operating Profit Margin: 13.1
+Full Year Gross Profit Margin: 11.2
+Latest Quarter Operating Profit Margin: 11.4

@@ -1,0 +1,42 @@
+Industry: FMCG
+Net Profit Variance: 26
+Latest Equity: 96.42
+Face Value: 1
+Total Reserves: 2996.33
+Full Year Dividend %: 1740
+Full Year Net Sales: 19021.05
+Full Year Net Profit: 3002.91
+Full Year Cash Per Share: 35.6
+Full Year Earning Per Share: 31.1
+Latest Quarter Net Sales: 4583.63
+Book Value: 32.1
+Return on Net Worth: 108.52
+Price to Book Value: 75.919003
+Yearly PE Ratio: 78.2
+Yearly PC Ratio: 68.5
+BSE Value (in lakhs): 1999.58
+NSE Value (in lakhs): 45107.9
+52 Week High: 2771
+52 Week Low: 2022
+Current Market Price (NSE): 2438
+Market Cap (BSE/NSE): 234974.74
+Latest Quarter Net Profit: 734.97
+Latest Quarter Net Profit Variance: 17
+Trailing Twelve Month (TTM) Sales: 16230.56
+TTM Operating Profit: 3389.71
+TTM Operating Profit Margin: 20.88
+TTM Gross Profit: 4467.2
+TTM Gross Profit Margin: 23.49
+TTM Net Profit: 2345.35
+TTM Net Profit Variance: 25.86
+TTM Earnings Per Share: 31.15
+TTM Price to Earnings Ratio: 78.24
+TTM Depreciation: 409.69
+Latest Price (BSE/NSE): 2437
+Latest Gross Block: 5474
+Total Loans: 270.52
+Latest Advances for Banks: 0
+Latest Assets: 0
+Full Year Operating Profit Margin: 23.5
+Full Year Gross Profit Margin: 23.5
+Latest Quarter Operating Profit Margin: 23.9

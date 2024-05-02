@@ -1,0 +1,42 @@
+Industry: Healthcare
+Net Profit Variance: -3
+Latest Equity: 71.89
+Face Value: 5
+Total Reserves: 6428.9
+Full Year Dividend %: 300
+Full Year Net Sales: 16612.5
+Full Year Net Profit: 810.31
+Full Year Cash Per Share: 99.2
+Full Year Earning Per Share: 56.4
+Latest Quarter Net Sales: 4850.6
+Book Value: 452.1
+Return on Net Worth: 15.04
+Price to Book Value: 13.647423
+Yearly PE Ratio: 109.5
+Yearly PC Ratio: 62.2
+BSE Value (in lakhs): 992.49
+NSE Value (in lakhs): 34371.84
+52 Week High: 6871
+52 Week Low: 4235
+Current Market Price (NSE): 6170
+Market Cap (BSE/NSE): 88715.85
+Latest Quarter Net Profit: 245.3
+Latest Quarter Net Profit Variance: 60
+Trailing Twelve Month (TTM) Sales: 15232.03
+TTM Operating Profit: 2079.29
+TTM Operating Profit Margin: 13.65
+TTM Gross Profit: 1922.3
+TTM Gross Profit Margin: 10.44
+TTM Net Profit: 839.61
+TTM Net Profit Variance: 3.04
+TTM Earnings Per Share: 54.81
+TTM Price to Earnings Ratio: 112.57
+TTM Depreciation: 618.18
+Latest Price (BSE/NSE): 6170
+Latest Gross Block: 12481.9
+Total Loans: 2151
+Latest Advances for Banks: 0
+Latest Assets: 0
+Full Year Operating Profit Margin: 12.3
+Full Year Gross Profit Margin: 10.5
+Latest Quarter Operating Profit Margin: 12.7

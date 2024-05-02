@@ -1,0 +1,42 @@
+Industry: Automobile
+Net Profit Variance: 73
+Latest Equity: 27.38
+Face Value: 1
+Total Reserves: 15903.55
+Full Year Dividend %: 3700
+Full Year Net Sales: 14442.18
+Full Year Net Profit: 2914.18
+Full Year Cash Per Share: 125.7
+Full Year Earning Per Share: 106.4
+Latest Quarter Net Sales: 4115.6
+Book Value: 581.8
+Return on Net Worth: 21.12
+Price to Book Value: 7.461327
+Yearly PE Ratio: 40.8
+Yearly PC Ratio: 34.5
+BSE Value (in lakhs): 658.99
+NSE Value (in lakhs): 31065.4
+52 Week High: 4441
+52 Week Low: 3157
+Current Market Price (NSE): 4344
+Market Cap (BSE/NSE): 118853.55
+Latest Quarter Net Profit: 995.97
+Latest Quarter Net Profit Variance: 34
+Trailing Twelve Month (TTM) Sales: 12747.06
+TTM Operating Profit: 2992.11
+TTM Operating Profit Margin: 23.47
+TTM Gross Profit: 5553.74
+TTM Gross Profit Margin: 35.17
+TTM Net Profit: 2333.79
+TTM Net Profit Variance: 46.5
+TTM Earnings Per Share: 140.1
+TTM Price to Earnings Ratio: 30.98
+TTM Depreciation: 474.21
+Latest Price (BSE/NSE): 4341
+Latest Gross Block: 5120.95
+Total Loans: 92.71
+Latest Advances for Banks: 0
+Latest Assets: 0
+Full Year Operating Profit Margin: 23.8
+Full Year Gross Profit Margin: 30
+Latest Quarter Operating Profit Margin: 26.5

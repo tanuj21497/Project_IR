@@ -1,0 +1,42 @@
+Industry: Textiles
+Net Profit Variance: -8
+Latest Equity: 131.7
+Face Value: 2
+Total Reserves: 83038.54
+Full Year Dividend %: 500
+Full Year Net Sales: 117627.08
+Full Year Net Profit: 6834.38
+Full Year Cash Per Share: 172.9
+Full Year Earning Per Share: 103.8
+Latest Quarter Net Sales: 31965.48
+Book Value: 1263.1
+Return on Net Worth: 14.35
+Price to Book Value: 1.800333
+Yearly PE Ratio: 21.9
+Yearly PC Ratio: 13.2
+BSE Value (in lakhs): 634.6
+NSE Value (in lakhs): 23946.56
+52 Week High: 2318
+52 Week Low: 1649
+Current Market Price (NSE): 2273
+Market Cap (BSE/NSE): 152023.11
+Latest Quarter Net Profit: 1514.44
+Latest Quarter Net Profit Variance: -40
+Trailing Twelve Month (TTM) Sales: 108740.71
+TTM Operating Profit: 20629.07
+TTM Operating Profit Margin: 18.97
+TTM Gross Profit: 18065.81
+TTM Gross Profit Margin: 14.26
+TTM Net Profit: 7591.35
+TTM Net Profit Variance: -29.23
+TTM Earnings Per Share: 85.4
+TTM Price to Earnings Ratio: 26.63
+TTM Depreciation: 4358.49
+Latest Price (BSE/NSE): 2274
+Latest Gross Block: 120464.14
+Total Loans: 43610.66
+Latest Advances for Banks: 0
+Latest Assets: 0
+Full Year Operating Profit Margin: 18.3
+Full Year Gross Profit Margin: 16.4
+Latest Quarter Operating Profit Margin: 21.6

@@ -1,0 +1,42 @@
+Industry: Refineries
+Net Profit Variance: -69
+Latest Equity: 2169.25
+Face Value: 10
+Total Reserves: 68853.02
+Full Year Dividend %: 40
+Full Year Net Sales: 473187.18
+Full Year Net Profit: 3343.55
+Full Year Cash Per Share: 44.8
+Full Year Earning Per Share: 15.4
+Latest Quarter Net Sales: 115499.14
+Book Value: 327.4
+Return on Net Worth: 6.34
+Price to Book Value: 1.78986
+Yearly PE Ratio: 38
+Yearly PC Ratio: 13.1
+BSE Value (in lakhs): 2190.58
+NSE Value (in lakhs): 60568.69
+52 Week High: 688
+52 Week Low: 332
+Current Market Price (NSE): 586
+Market Cap (BSE/NSE): 127096.52
+Latest Quarter Net Profit: 3383.16
+Latest Quarter Net Profit Variance: 77
+Trailing Twelve Month (TTM) Sales: 435308.08
+TTM Operating Profit: 7996.54
+TTM Operating Profit Margin: 1.84
+TTM Gross Profit: 45033.85
+TTM Gross Profit Margin: 10.02
+TTM Net Profit: -449.85
+TTM Net Profit Variance: 2007.42
+TTM Earnings Per Share: 140.34
+TTM Price to Earnings Ratio: 4.17
+TTM Depreciation: 6112.73
+Latest Price (BSE/NSE): 586
+Latest Gross Block: 114274.24
+Total Loans: 64690.68
+Latest Advances for Banks: 0
+Latest Assets: 0
+Full Year Operating Profit Margin: 2.3
+Full Year Gross Profit Margin: 2.3
+Latest Quarter Operating Profit Margin: 5.4

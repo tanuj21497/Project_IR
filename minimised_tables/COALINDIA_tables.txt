@@ -1,0 +1,42 @@
+Industry: Mining & Mineral products
+Net Profit Variance: 62
+Latest Equity: 6162.73
+Face Value: 10
+Total Reserves: 63523.1
+Full Year Dividend %: 243
+Full Year Net Sales: 138251.91
+Full Year Net Profit: 28144.32
+Full Year Cash Per Share: 53.3
+Full Year Earning Per Share: 45.7
+Latest Quarter Net Sales: 33011.11
+Book Value: 113.1
+Return on Net Worth: 56.03
+Price to Book Value: 3.846154
+Yearly PE Ratio: 9.5
+Yearly PC Ratio: 8.2
+BSE Value (in lakhs): 1717.33
+NSE Value (in lakhs): 33155.98
+52 Week High: 488
+52 Week Low: 223
+Current Market Price (NSE): 435
+Market Cap (BSE/NSE): 268232.75
+Latest Quarter Net Profit: 9069.19
+Latest Quarter Net Profit Variance: 17
+Trailing Twelve Month (TTM) Sales: 116073.79
+TTM Operating Profit: 35266.48
+TTM Operating Profit Margin: 30.38
+TTM Gross Profit: 44498.91
+TTM Gross Profit Margin: 33.91
+TTM Net Profit: 26127.74
+TTM Net Profit Variance: 0.16
+TTM Earnings Per Share: 47.66
+TTM Price to Earnings Ratio: 9.13
+TTM Depreciation: 4524.49
+Latest Price (BSE/NSE): 435
+Latest Gross Block: 77320.68
+Total Loans: 385
+Latest Advances for Banks: 0
+Latest Assets: 0
+Full Year Operating Profit Margin: 26.6
+Full Year Gross Profit Margin: 30.8
+Latest Quarter Operating Profit Margin: 34.5

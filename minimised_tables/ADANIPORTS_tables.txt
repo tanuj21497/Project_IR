@@ -1,0 +1,42 @@
+Industry: Marine Port & Services
+Net Profit Variance: 21
+Latest Equity: 432.03
+Face Value: 2
+Total Reserves: 48261.37
+Full Year Dividend %: 250
+Full Year Net Sales: 20851.91
+Full Year Net Profit: 6307.13
+Full Year Cash Per Share: 45
+Full Year Earning Per Share: 29.2
+Latest Quarter Net Sales: 6920.1
+Book Value: 225.4
+Return on Net Worth: 14.65
+Price to Book Value: 5.816327
+Yearly PE Ratio: 44.9
+Yearly PC Ratio: 29.1
+BSE Value (in lakhs): 2235.42
+NSE Value (in lakhs): 50576.67
+52 Week High: 1425
+52 Week Low: 656
+Current Market Price (NSE): 1310
+Market Cap (BSE/NSE): 283097.01
+Latest Quarter Net Profit: 2208.41
+Latest Quarter Net Profit Variance: 68
+Trailing Twelve Month (TTM) Sales: 17911.02
+TTM Operating Profit: 10985.09
+TTM Operating Profit Margin: 61.33
+TTM Gross Profit: 11971.32
+TTM Gross Profit Margin: 46.74
+TTM Net Profit: 5332.02
+TTM Net Profit Variance: 67.96
+TTM Earnings Per Share: 40.85
+TTM Price to Earnings Ratio: 32.08
+TTM Depreciation: 3062.77
+Latest Price (BSE/NSE): 1311
+Latest Gross Block: 87638.55
+Total Loans: 40982.71
+Latest Advances for Banks: 0
+Latest Assets: 0
+Full Year Operating Profit Margin: 52.2
+Full Year Gross Profit Margin: 48.6
+Latest Quarter Operating Profit Margin: 60.6

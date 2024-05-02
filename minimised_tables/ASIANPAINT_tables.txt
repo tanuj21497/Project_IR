@@ -1,0 +1,42 @@
+Industry: Paints/Varnish
+Net Profit Variance: 34
+Latest Equity: 95.92
+Face Value: 1
+Total Reserves: 16466.03
+Full Year Dividend %: 2565
+Full Year Net Sales: 34488.59
+Full Year Net Profit: 4133.78
+Full Year Cash Per Share: 52
+Full Year Earning Per Share: 43.1
+Latest Quarter Net Sales: 9074.94
+Book Value: 172.7
+Return on Net Worth: 28.15
+Price to Book Value: 16.259409
+Yearly PE Ratio: 65.2
+Yearly PC Ratio: 54
+BSE Value (in lakhs): 3022.38
+NSE Value (in lakhs): 37318.28
+52 Week High: 3567
+52 Week Low: 2766
+Current Market Price (NSE): 2809
+Market Cap (BSE/NSE): 269385.9
+Latest Quarter Net Profit: 1447.72
+Latest Quarter Net Profit Variance: 35
+Trailing Twelve Month (TTM) Sales: 33361.57
+TTM Operating Profit: 5654
+TTM Operating Profit Margin: 16.95
+TTM Gross Profit: 8281.09
+TTM Gross Profit Margin: 23.37
+TTM Net Profit: 3765.88
+TTM Net Profit Variance: 42.71
+TTM Earnings Per Share: 56.88
+TTM Price to Earnings Ratio: 49.38
+TTM Depreciation: 836.82
+Latest Price (BSE/NSE): 2808
+Latest Gross Block: 9306.7
+Total Loans: 1751.58
+Latest Advances for Banks: 0
+Latest Assets: 0
+Full Year Operating Profit Margin: 18.1
+Full Year Gross Profit Margin: 19.1
+Latest Quarter Operating Profit Margin: 22.7

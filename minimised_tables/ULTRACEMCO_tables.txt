@@ -1,0 +1,42 @@
+Industry: Cement
+Net Profit Variance: -30
+Latest Equity: 288.7
+Face Value: 10
+Total Reserves: 55858.17
+Full Year Dividend %: 380
+Full Year Net Sales: 63239.98
+Full Year Net Profit: 5042.27
+Full Year Cash Per Share: 274.7
+Full Year Earning Per Share: 174.7
+Latest Quarter Net Sales: 16739.97
+Book Value: 1944.8
+Return on Net Worth: 9.69
+Price to Book Value: 4.816434
+Yearly PE Ratio: 53.6
+Yearly PC Ratio: 34.1
+BSE Value (in lakhs): 849.87
+NSE Value (in lakhs): 38799.75
+52 Week High: 10523
+52 Week Low: 7308
+Current Market Price (NSE): 9364
+Market Cap (BSE/NSE): 270434.33
+Latest Quarter Net Profit: 1776.98
+Latest Quarter Net Profit Variance: 68
+Trailing Twelve Month (TTM) Sales: 57808.88
+TTM Operating Profit: 10452.15
+TTM Operating Profit Margin: 18.08
+TTM Gross Profit: 11896.14
+TTM Gross Profit Margin: 17.2
+TTM Net Profit: 6667.96
+TTM Net Profit Variance: 9.46
+TTM Earnings Per Share: 222.13
+TTM Price to Earnings Ratio: 42.17
+TTM Depreciation: 2780.65
+Latest Price (BSE/NSE): 9367
+Latest Gross Block: 76956.77
+Total Loans: 9533.29
+Latest Advances for Banks: 0
+Latest Assets: 0
+Full Year Operating Profit Margin: 16.7
+Full Year Gross Profit Margin: 16.2
+Latest Quarter Operating Profit Margin: 19.4

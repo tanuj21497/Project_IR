@@ -1,0 +1,42 @@
+Industry: Plantation & Plantation Products
+Net Profit Variance: 10
+Latest Equity: 95.28
+Face Value: 1
+Total Reserves: 16039.55
+Full Year Dividend %: 845
+Full Year Net Sales: 13783.16
+Full Year Net Profit: 1065.89
+Full Year Cash Per Share: 14.4
+Full Year Earning Per Share: 11.2
+Latest Quarter Net Sales: 3803.92
+Book Value: 169.3
+Return on Net Worth: 7.7
+Price to Book Value: 6.721796
+Yearly PE Ratio: 101.7
+Yearly PC Ratio: 79.1
+BSE Value (in lakhs): 426.67
+NSE Value (in lakhs): 24496.02
+52 Week High: 1270
+52 Week Low: 697
+Current Market Price (NSE): 1138
+Market Cap (BSE/NSE): 108384.96
+Latest Quarter Net Profit: 343.02
+Latest Quarter Net Profit Variance: 18
+Trailing Twelve Month (TTM) Sales: 13073.67
+TTM Operating Profit: 1858.94
+TTM Operating Profit Margin: 14.22
+TTM Gross Profit: 2196.39
+TTM Gross Profit Margin: 14.74
+TTM Net Profit: 1025.32
+TTM Net Profit Variance: 23.39
+TTM Earnings Per Share: 13.49
+TTM Price to Earnings Ratio: 84.32
+TTM Depreciation: 287.97
+Latest Price (BSE/NSE): 1138
+Latest Gross Block: 15900.44
+Total Loans: 671.99
+Latest Advances for Banks: 0
+Latest Assets: 0
+Full Year Operating Profit Margin: 11.5
+Full Year Gross Profit Margin: 13.9
+Latest Quarter Operating Profit Margin: 15

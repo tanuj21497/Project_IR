@@ -1,0 +1,42 @@
+Industry: Diamond, Gems and Jewellery
+Net Profit Variance: 47
+Latest Equity: 88.78
+Face Value: 1
+Total Reserves: 12320
+Full Year Dividend %: 1000
+Full Year Net Sales: 40575
+Full Year Net Profit: 3252.21
+Full Year Cash Per Share: 41.6
+Full Year Earning Per Share: 36.6
+Latest Quarter Net Sales: 13963
+Book Value: 139.8
+Return on Net Worth: 30.95
+Price to Book Value: 25.486409
+Yearly PE Ratio: 97.3
+Yearly PC Ratio: 85.6
+BSE Value (in lakhs): 2925.54
+NSE Value (in lakhs): 53298.7
+52 Week High: 3885
+52 Week Low: 2559
+Current Market Price (NSE): 3563
+Market Cap (BSE/NSE): 316304.89
+Latest Quarter Net Profit: 1053
+Latest Quarter Net Profit Variance: 16
+Trailing Twelve Month (TTM) Sales: 34712
+TTM Operating Profit: 4625
+TTM Operating Profit Margin: 13.32
+TTM Gross Profit: 5165
+TTM Gross Profit Margin: 11.55
+TTM Net Profit: 3167.38
+TTM Net Profit Variance: 12.51
+TTM Earnings Per Share: 38.87
+TTM Price to Earnings Ratio: 91.66
+TTM Depreciation: 409
+Latest Price (BSE/NSE): 3563
+Latest Gross Block: 4660
+Total Loans: 7678
+Latest Advances for Banks: 0
+Latest Assets: 0
+Full Year Operating Profit Margin: 12
+Full Year Gross Profit Margin: 12.1
+Latest Quarter Operating Profit Margin: 11.2

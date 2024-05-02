@@ -1,0 +1,42 @@
+Industry: Infrastructure Developers & Operators
+Net Profit Variance: 23
+Latest Equity: 274.93
+Face Value: 2
+Total Reserves: 78136.89
+Full Year Dividend %: 1200
+Full Year Net Sales: 183340.7
+Full Year Net Profit: 9957.55
+Full Year Cash Per Share: 97.9
+Full Year Earning Per Share: 72.4
+Latest Quarter Net Sales: 55127.82
+Book Value: 570.4
+Return on Net Worth: 14.7
+Price to Book Value: 6.169355
+Yearly PE Ratio: 48.6
+Yearly PC Ratio: 35.9
+BSE Value (in lakhs): 7767.59
+NSE Value (in lakhs): 96835.46
+52 Week High: 3860
+52 Week Low: 2169
+Current Market Price (NSE): 3518
+Market Cap (BSE/NSE): 483780.25
+Latest Quarter Net Profit: 2947.36
+Latest Quarter Net Profit Variance: 19
+Trailing Twelve Month (TTM) Sales: 171029.4
+TTM Operating Profit: 21360.54
+TTM Operating Profit Margin: 12.49
+TTM Gross Profit: 23517.24
+TTM Gross Profit Margin: 11.07
+TTM Net Profit: 9606.47
+TTM Net Profit Variance: 26.2
+TTM Earnings Per Share: 92.02
+TTM Price to Earnings Ratio: 38.24
+TTM Depreciation: 3325.37
+Latest Price (BSE/NSE): 3519
+Latest Gross Block: 58756.1
+Total Loans: 38961.26
+Latest Advances for Banks: 0
+Latest Assets: 0
+Full Year Operating Profit Margin: 14.3
+Full Year Gross Profit Margin: 10.8
+Latest Quarter Operating Profit Margin: 13.1

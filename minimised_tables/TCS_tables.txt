@@ -1,0 +1,42 @@
+Industry: IT - Software
+Net Profit Variance: 11
+Latest Equity: 361.81
+Face Value: 1
+Total Reserves: 89892
+Full Year Dividend %: 7300
+Full Year Net Sales: 240893
+Full Year Net Profit: 46601.06
+Full Year Cash Per Share: 142.6
+Full Year Earning Per Share: 128.8
+Latest Quarter Net Sales: 61237
+Book Value: 249.5
+Return on Net Worth: 51.04
+Price to Book Value: 15.338677
+Yearly PE Ratio: 29.7
+Yearly PC Ratio: 26.8
+BSE Value (in lakhs): 8545.02
+NSE Value (in lakhs): 113215.05
+52 Week High: 4254
+52 Week Low: 3079
+Current Market Price (NSE): 3826
+Market Cap (BSE/NSE): 1384804.91
+Latest Quarter Net Profit: 12434
+Latest Quarter Net Profit Variance: 9
+Trailing Twelve Month (TTM) Sales: 207543
+TTM Operating Profit: -3000
+TTM Operating Profit Margin: -1.45
+TTM Gross Profit: 66982
+TTM Gross Profit Margin: 27.81
+TTM Net Profit: 39604
+TTM Net Profit Variance: 10.63
+TTM Earnings Per Share: 128.8
+TTM Price to Earnings Ratio: 29.72
+TTM Depreciation: 4880
+Latest Price (BSE/NSE): 3827
+Latest Gross Block: 47418
+Total Loans: 8021
+Latest Advances for Banks: 0
+Latest Assets: 0
+Full Year Operating Profit Margin: 26.7
+Full Year Gross Profit Margin: 28.2
+Latest Quarter Operating Profit Margin: 28

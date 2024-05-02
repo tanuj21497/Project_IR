@@ -1,0 +1,42 @@
+Industry: Non Ferrous Metals
+Net Profit Variance: -25
+Latest Equity: 224.72
+Face Value: 1
+Total Reserves: 99273
+Full Year Dividend %: 300
+Full Year Net Sales: 223202
+Full Year Net Profit: 10097
+Full Year Cash Per Share: 76.5
+Full Year Earning Per Share: 44.9
+Latest Quarter Net Sales: 52808
+Book Value: 442.8
+Return on Net Worth: 11.67
+Price to Book Value: 1.388889
+Yearly PE Ratio: 13.7
+Yearly PC Ratio: 8
+BSE Value (in lakhs): 1657.09
+NSE Value (in lakhs): 39339.44
+52 Week High: 625
+52 Week Low: 398
+Current Market Price (NSE): 615
+Market Cap (BSE/NSE): 138091.46
+Latest Quarter Net Profit: 2331
+Latest Quarter Net Profit Variance: 71
+Trailing Twelve Month (TTM) Sales: 220230
+TTM Operating Profit: 28126
+TTM Operating Profit Margin: 12.77
+TTM Gross Profit: 20074
+TTM Gross Profit Margin: 9.3
+TTM Net Profit: 13853.62
+TTM Net Profit Variance: -19.96
+TTM Earnings Per Share: 41.73
+TTM Price to Earnings Ratio: 14.73
+TTM Depreciation: 6906
+Latest Price (BSE/NSE): 615
+Latest Gross Block: 182450
+Total Loans: 34784
+Latest Advances for Banks: 0
+Latest Assets: 0
+Full Year Operating Profit Margin: 10.2
+Full Year Gross Profit Margin: 9.1
+Latest Quarter Operating Profit Margin: 11.1

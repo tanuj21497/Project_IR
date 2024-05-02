@@ -1,0 +1,42 @@
+Industry: Pharmaceuticals
+Net Profit Variance: 28
+Latest Equity: 239.93
+Face Value: 1
+Total Reserves: 59585.71
+Full Year Dividend %: 1150
+Full Year Net Sales: 43885.68
+Full Year Net Profit: 8604.93
+Full Year Cash Per Share: 46.4
+Full Year Earning Per Share: 35.9
+Latest Quarter Net Sales: 12156.86
+Book Value: 249.3
+Return on Net Worth: 16.46
+Price to Book Value: 6.109106
+Yearly PE Ratio: 42.5
+Yearly PC Ratio: 32.8
+BSE Value (in lakhs): 2211.51
+NSE Value (in lakhs): 38429.89
+52 Week High: 1639
+52 Week Low: 923
+Current Market Price (NSE): 1523
+Market Cap (BSE/NSE): 365310.75
+Latest Quarter Net Profit: 2583.5
+Latest Quarter Net Profit Variance: 19
+Trailing Twelve Month (TTM) Sales: 40653.41
+TTM Operating Profit: 7416.02
+TTM Operating Profit Margin: 18.24
+TTM Gross Profit: 13089.87
+TTM Gross Profit Margin: 28.05
+TTM Net Profit: 7893.64
+TTM Net Profit Variance: 17.27
+TTM Earnings Per Share: 39.1
+TTM Price to Earnings Ratio: 38.94
+TTM Depreciation: 2308.1
+Latest Price (BSE/NSE): 1523
+Latest Gross Block: 43454.63
+Total Loans: 6885.87
+Latest Advances for Banks: 0
+Latest Assets: 0
+Full Year Operating Profit Margin: 26.8
+Full Year Gross Profit Margin: 27.6
+Latest Quarter Operating Profit Margin: 28.6
