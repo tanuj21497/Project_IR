@@ -78,11 +78,11 @@ Now we compared outputs from Llama and Falcon models to refine the selection bas
 
 ## How To Setup
 
-To clone and run this application, you'll need [Git](https://github.com/om21481/IR-Project.git) and [Django](https://www.djangoproject.com/download/). From your command line:
+To clone and run this application, you'll need [Git](https://github.com/tanuj21497/Project_IR.git) and [Django](https://www.djangoproject.com/download/). From your command line:
 
 ```bash
 # Clone this repository to the desired folder
-$ git clone https://github.com/om21481/IR-Project.git
+$ git clone https://github.com/tanuj21497/Project_IR.git
 
 # Initialize a Python environment
 $ python -m venv env
@@ -130,6 +130,8 @@ This software uses the following open source packages:
 
 
 ## Contributors
+Tanuj Kamboj - tanuj21497@iiitd.ac.in
+
 Aditya Arya - aditya21510@iiitd.ac.in 
 
 Om Garg	    - om21481@iiitd.ac.in
@@ -139,8 +141,6 @@ Vivek Anand - vivek21503@iiitd.ac.in
 Vibhav Balhara - vibhav21500@iiitd.ac.in
 
 Siddharth Anand - siddharth21494@iiitd.ac.in
-
-Tanuj Kamboj - tanuj21497@iiitd.ac.in
 <!-- ## Related
 
 [markdownify-web](https://github.com/amitmerchant1990/markdownify-web) - Web version of Markdownify -->
